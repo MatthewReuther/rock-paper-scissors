@@ -10,3 +10,8 @@
 5. Output ask if they would like to play again.
    1. If not yes exit program
    2. Other-wise accept another move from Keyboard
+
+## View Code With Comments
+To view code with in-line comments checkout out the withComments branch by using the following command.
+
+```git checkout withComments```
